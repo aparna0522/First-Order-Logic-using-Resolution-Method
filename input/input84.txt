@@ -1,0 +1,9 @@
+WagTail(Hayley)
+7
+NotSeen(x,y,Weeks) => Ecstatic(y)
+NotSeen(x,y,Days) => Excited(y)
+Ecstatic(y) & FullBladder(y) => Pees(y)
+Excited(y) => WagTail(y)
+Ecstatic(y) => Excited(y)
+NotSeen(Gozde,Hayley,Weeks)
+FullBladder(Hayley)

@@ -1,0 +1,5 @@
+A(Daphne)
+3
+B(x) & C(y,y,x) => A(Daphne)
+C(One,Two,Three)
+B(Three)

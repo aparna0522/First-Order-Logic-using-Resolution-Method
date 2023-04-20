@@ -1,0 +1,9 @@
+B(John)
+7
+~A(John)
+Hip(Hop) & B(Bob) => Dont(Stop)
+~C(John)
+~A(x) & ~B(x) => C(x)
+Z(Whole)
+Y(None)
+Blah(Bluh)

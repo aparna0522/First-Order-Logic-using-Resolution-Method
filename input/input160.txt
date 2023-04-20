@@ -1,0 +1,6 @@
+A(Maackia,Lythrum,Myrica)
+4
+~B(x,y,z) | ~C(z,w,q) | ~D(q,u,x) | A(y, w, u)
+B(One,Maackia,Two)
+C(Two,Lythrum,Three)
+D(Three,Myrica,One)

@@ -1,0 +1,4 @@
+Friends(Darrow,Eo,Mustang,Sevro)
+2
+Friends(a,b,c,d)
+NotFriends(a,b,c,d)

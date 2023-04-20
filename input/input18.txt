@@ -1,0 +1,9 @@
+Sick(Hayley,Rabies)
+7
+Sick(x,a) & Contagious(a) & Contact(x,y) => Sick(y,a)
+Contagious(Rabies)
+~Contagious(Cuteness)
+Sick(Bella,Cuteness)
+Sick(Dash,Rabies)
+~Contact(Dash,Bella)
+Contact(Bella,Hayley)

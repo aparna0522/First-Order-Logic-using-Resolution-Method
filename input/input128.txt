@@ -1,0 +1,6 @@
+Rich(Tony)
+4
+A(Tony)
+A(Tony) => Rich(Tony)
+A(Tony) => ~Smart(Tony)
+A(Tony) => Cool(Tony)

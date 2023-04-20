@@ -1,0 +1,13 @@
+Leave(Helena)
+11
+Seated(x) & Stocked(y) => Order(x,y)
+Order(x,y) => Ate(x)
+GetCheck(x) & HaveMoney(x) => Paid(x)
+Ate(x) => GetCheck(x)
+GetCheck(x) & Paid(x) => Leave(x)
+Open(Restaurant) & Open(Kitchen) => Seated(x)
+Stocked(Portabello) | Stocked(Tofu) => Stocked(VeganHamburger)
+Stocked(Portabello)
+Open(Restaurant)
+Open(Kitchen)
+HaveMoney(Helena)

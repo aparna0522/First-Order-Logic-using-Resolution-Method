@@ -1,0 +1,4 @@
+NotFriends(Pax,Jackal,Daxo,Mustang)
+2
+Friends(a,b,c,d)
+NotFriends(a,b,c,d)
